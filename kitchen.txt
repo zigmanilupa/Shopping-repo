@@ -1,3 +1,5 @@
 knife
 plate
 spoon
+tea
+curd
